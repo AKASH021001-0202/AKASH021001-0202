@@ -5,12 +5,8 @@ I'm Akash ,Passionate Full Stack Developer with experience in creating robust, s
 ## 🛠️ Skills
 
 ### Languages
-
-
-
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
@@ -55,7 +51,7 @@ I'm Akash ,Passionate Full Stack Developer with experience in creating robust, s
 ![Ryzen 3 3200G](https://img.shields.io/badge/Ryzen_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![AMD Radeon RX 6600](https://img.shields.io/badge/AMD_Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WORDPRESS](https://i.ibb.co/GJtQJ3H/wordpress.png)
+
 
 
 ## 🔗  Connect with Me
