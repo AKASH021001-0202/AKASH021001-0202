@@ -1,6 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## About Me
 I'm Akash ,Passionate Full Stack Developer with experience in creating robust, scalable, and user-friendly web applications. Skilled in both frontend and backend technologies with a solid foundation in WordPress development. Currently pursuing MERN stack certification to further enhance my development skills.
 ## 🛠️ Skills
 
